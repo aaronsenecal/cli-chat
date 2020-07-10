@@ -1,0 +1,17 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "A simple websocket server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "http": "0.0.0",
+    "readline": "^1.3.0",
+    "websocket": "^1.0.30"
+  }
+}
